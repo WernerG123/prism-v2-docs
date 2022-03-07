@@ -42,6 +42,7 @@
         4.1.3 Delete Users
     
     4.2 Site Admin
+
         4.2.1 Commission Site
     
         4.2.2 Edit Site
@@ -54,7 +55,26 @@
 
 ---
 
-1. Getting Started
+# 1. Getting Started
+
+Using and Android mobile device, open Chrome browser and navigate to the Prism URL **https://prism-v2-df011.web.app/**
+
+> **Tip** Install the site to *Home Screen* to use Prism as a *Native App*
+
+## 1.1 Login
+
+Enter your username/email and password then click on login to start using the Prism App.
+
+You will be greeted with a welcome screen. From here, you can click on the menu button in the top left corner to navigate to the desired functionalities.
+
+
+# 2. User Tokens
+
+User Tokens are an essential part of the Prism App and are used to communicate securely with Prism devices.  Without valid and secure tokens you will not be able to control any functionalities on the Prism device.  To Retrieve or Generate tokens, open the menu and navigate to *User Tokens*
+
+## 2.2 Generating Tokens as Admin
+
+
 
 # Markdown extensions
 
