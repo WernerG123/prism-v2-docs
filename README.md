@@ -5,28 +5,28 @@
 ## Index
 
 1. Getting Started
-1.1 Login
+    1.1 Login
 2. User Tokens
-2.1 Generating Tokens as Admin
-2.2 Generating Cloud Tokens
-2.3 Retrieving Cloud Tokens
-2.4 QR Scanner
+    2.1 Generating Tokens as Admin
+    2.2 Generating Cloud Tokens
+    2.3 Retrieving Cloud Tokens
+    2.4 QR Scanner
 3. Controller Functions
-3.1 Connecting to PRISM™ device
-3.2 Open Lock, Close Lock, Stand Down
-3.3 Diagnostics and Reports
-3.4 Debug Mode
+    3.1 Connecting to PRISM™ device
+    3.2 Open Lock, Close Lock, Stand Down
+    3.3 Diagnostics and Reports
+    3.4 Debug Mode
 4. Admin
-4.1 User Admin
-4.1.1 Add Users
-4.1.2 Edit Users
-4.1.3 Delete Users
-4.2 Site Admin
-4.2.1 Commission Site
-4.2.2 Edit Site
-4.2.2.1 Add User to Site
-4.2.2.2 Remove User from Site
-4.2.3 Delete Site
+    4.1 User Admin
+        4.1.1 Add Users
+        4.1.2 Edit Users
+        4.1.3 Delete Users
+    4.2 Site Admin
+        4.2.1 Commission Site
+        4.2.2 Edit Site
+            4.2.2.1 Add User to Site
+            4.2.2.2 Remove User from Site
+            4.2.3 Delete Site
 
 1. Getting Started
 
