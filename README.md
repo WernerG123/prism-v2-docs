@@ -5,18 +5,25 @@
 ## Index
 
 1. Getting Started
+
     1.1 Login
+
 2. User Tokens
+
     2.1 Generating Tokens as Admin
     2.2 Generating Cloud Tokens
     2.3 Retrieving Cloud Tokens
     2.4 QR Scanner
+
 3. Controller Functions
+
     3.1 Connecting to PRISM™ device
     3.2 Open Lock, Close Lock, Stand Down
     3.3 Diagnostics and Reports
     3.4 Debug Mode
+
 4. Admin
+
     4.1 User Admin
         4.1.1 Add Users
         4.1.2 Edit Users
