@@ -65,7 +65,7 @@ Using and Android mobile device, open Chrome browser and navigate to the Prism U
 
 Enter your username/email and password then click on login to start using the Prism App.
 
-![login](assets/login.jpg)  <img src="assets/login.jpg" alt="drawing" width="200"/>
+![login](assets/login.jpg)  <img src="assets/login.jpg" alt="drawing" width="200px"/>
 
 You will be greeted with a welcome screen. From here, you can click on the menu button in the top left corner to navigate to the desired functionalities.
 
