@@ -151,7 +151,7 @@ From the *Diagnostics* screen the user can run through the different component t
 
 From the *Debug* screen a user can send *Plain Text* messages to the connected unit.
 
-![debug](assets/diagnostics.jpg)
+![debug](assets/debug.jpg)
 
 > **Note:** This is not available to all users and must be used with extreme caution!
 
