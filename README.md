@@ -92,20 +92,19 @@ As an Admin user, clicking on the *Generate Tokens* button will open the token g
 As an Admin user, you can generate tokens and store them in the cloud for the selected user.
  - Once tokens are created you will be notified and the selected user can later retrieve their cloud tokens.
 
- ![cloud-tokens](assets/cloudtokens.jpg)  ![generated](assets/cloudtokensgenerated.jpg)
+![cloud-tokens](assets/cloudtokens.jpg)  ![generated](assets/cloudtokensgenerated.jpg)
 
+## 2.3 Retrieving Cloud Tokens
 
- ## 2.3 Retrieving Cloud Tokens
+By clicking on the *Get Tokens* button, the user is greeted with a screen with a button to retrieve their cloud tokens.
+ - Clicking on the *Retrieve Tokens* button, the user will be notified whether they have loaded the new tokens or if no tokens were available.
+ - If no tokens are available an Admin user can generate new tokens (Refer to **2.2**)
 
- By clicking on the *Get Tokens* button, the user is greeted with a screen with a button to retrieve their cloud tokens.
-  - Clicking on the *Retrieve Tokens* button, the user will be notified whether they have loaded the new tokens or if no tokens were available.
-  - If no tokens are available an Admin user can generate new tokens (Refer to **2.2**)
+![cloud-get](assets/retrievetokens.jpg) ![retrieved](assets/retrievedtokens.jpg)
 
-  ![cloud-get](assets/retrievetokens.jpg) ![retrieved](assets/retrievedtokens.jpg)
-
-  ## 2.4 QR Scanner
+## 2.4 QR Scanner
   
-  By clicking on the *QR Scanner* button, the user has an option to either scan a valid QR Code with the camera or uploading a QR Code image file to read the contents and automatically load tokens.
+By clicking on the *QR Scanner* button, the user has an option to either scan a valid QR Code with the camera or uploading a QR Code image file to read the contents and automatically load tokens.
 
 ![qr-scanner](assets/qrscanner.jpg)
 
