@@ -7,7 +7,7 @@
 
 ## Index
 
-1. Getting Started
+1. [Getting Started](#gettingStarted) 
 
     1.1. Login
 
@@ -55,7 +55,7 @@
 
 ---
 
-# 1. Getting Started
+# 1. Getting Started <a name="gettingStarted"></a>
 
 Using and Android mobile device, open Chrome browser and navigate to the Prism URL [here](https://prism-v2-df011.web.app)
 
@@ -122,7 +122,7 @@ The *Controller Functions* screen is the central management and control interfac
 To connect to the Prism Device via bluetooth click on *Connect*.
  - The user will have the opportunity to select the available Prism devices from a popup list
 
- ![connect](assets/connect.jpg) => ![connect](assets/connecting.jpg) => ![connect](assets/connected.jpg)
+ ![connect](assets/connect.jpg) ![connect](assets/connecting.jpg) ![connect](assets/connected.jpg)
 
 ## 3.2 Open Lock, Close Lock, Stand Down
 
