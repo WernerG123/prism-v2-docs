@@ -65,8 +65,11 @@ Using and Android mobile device, open Chrome browser and navigate to the Prism U
 
 Enter your username/email and password then click on login to start using the Prism App.
 
+![login](assets/login.jpg)
+
 You will be greeted with a welcome screen. From here, you can click on the menu button in the top left corner to navigate to the desired functionalities.
 
+![welcome](assets/welcome.jpg)
 
 # 2. User Tokens
 
