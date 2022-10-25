@@ -11,13 +11,13 @@
 
     1.1. [Login](#1.1)
 
-2. [User Tokens](#userTokens)
+2. [User v-Keys](#v-Keys)
 
-    2.1. [Generating Tokens as Admin](#2.1) 
+    2.1. [Generating v-Keys as Admin](#2.1) 
 
-    2.2. [Generating Cloud Tokens](#2.2)
+    2.2. [Generating Cloud v-Keys](#2.2)
     
-    2.3. [Retrieving Cloud Tokens](#2.3)
+    2.3. [Retrieving Cloud v-Keys](#2.3)
     
     2.4. [QR Scanner](#2.4)
 
@@ -73,42 +73,42 @@ You will be greeted with a welcome screen. From here, you can click on the menu 
 
 ---
 
-# 2. User Tokens <a name="userTokens"></a>
+# 2. User v-Keys <a name="v-Keys"></a>
 
-User Tokens are an essential part of the Prism App and are used to communicate securely with Prism devices.  Without valid and secure tokens you will not be able to control any functionalities on the Prism device.  To Retrieve or Generate tokens, open the menu and navigate to *User Tokens*
+User v-Keys are an essential part of the Prism App and are used to communicate securely with Prism devices.  Without valid and secure v-Keys you will not be able to control any functionalities on the Prism device.  To Retrieve or Generate v-Keys, open the menu and navigate to *User v-Keys*
 
 ![user-tokens](assets/usertokens.jpg)
 
-## 2.1 Generating Tokens as Admin <a name="2.1"></a>
+## 2.1 Generating v-Keys as Admin <a name="2.1"></a>
 
-As an Admin user, clicking on the *Generate Tokens* button will open the token generation screen where you can select a site to generate tokens for the current user. 
- - If tokens were generated successfully the app will display a notification for tokens generated and for which site.
+As an Admin user, clicking on the *Generate v-Keys* button will open the v-Key generation screen where you can select a site to generate v-Keys for the current user. 
+ - If v-Keys were generated successfully the app will display a notification for v-Keys generated and for which site.
 
 ![select-site](assets/generatetokens.jpg)  ![generated](assets/generatedtokens.jpg)
 
 
-## 2.2 Generating Cloud Tokens <a name="2.2"></a>
+## 2.2 Generating Cloud v-Keys <a name="2.2"></a>
 
-As an Admin user, you can generate tokens and store them in the cloud for the selected user.
- - Once tokens are created you will be notified and the selected user can later retrieve their cloud tokens.
+As an Admin user, you can generate v-Keys and store them in the cloud for the selected user.
+ - Once v-Keys are created you will be notified and the selected user can later retrieve their cloud v-Keys.
 
 ![cloud-tokens](assets/cloudtokens.jpg)  ![generated](assets/cloudtokensgenerated.jpg)
 
-## 2.3 Retrieving Cloud Tokens <a name="2.3"></a>
+## 2.3 Retrieving Cloud v-Keys <a name="2.3"></a>
 
-By clicking on the *Get Tokens* button, the user is greeted with a screen with a button to retrieve their cloud tokens.
- - Clicking on the *Retrieve Tokens* button, the user will be notified whether they have loaded the new tokens or if no tokens were available.
- - If no tokens are available an Admin user can generate new tokens (Refer to **2.2**)
+By clicking on the *Get v-Keys* button, the user is greeted with a screen with a button to retrieve their cloud v-Keys.
+ - Clicking on the *Retrieve v-Keys* button, the user will be notified whether they have loaded the new v-Keys or if no v-Keys were available.
+ - If no v-Keys are available an Admin user can generate new v-Keys (Refer to **2.2**)
 
 ![cloud-get](assets/retrievetokens.jpg) ![retrieved](assets/retrievedtokens.jpg)
 
 ## 2.4 QR Scanner <a name="2.4"></a>
   
-By clicking on the *QR Scanner* button, the user has an option to either scan a valid QR Code with the camera or uploading a QR Code image file to read the contents and automatically load tokens.
+By clicking on the *QR Scanner* button, the user has an option to either scan a valid QR Code with the camera or uploading a QR Code image file to read the contents and automatically load v-Keys.
 
 ![qr-scanner](assets/qrscanner.jpg)
 
-  > **Note:** Only valid Token QR Codes will be read by the scanner - it will not work with any other type of QR Codes
+  > **Note:** Only valid v-Keys QR Codes will be read by the scanner - it will not work with any other type of QR Codes
 
 
 ---
@@ -130,7 +130,7 @@ Once the device is connected, the user will see a control panel for the device w
 
 - *Open* Unlocks the unit
 - *Lock* Locks the unit
-- *Stand Down* Starts the standing down flow. This will cause the unit to run through some tests to ensure that the site and unit is secured and that the unit is still in working condition. If all the tests succeed the user's tokens will be revoked and the user can leave the site.
+- *Stand Down* Starts the standing down flow. This will cause the unit to run through some tests to ensure that the site and unit is secured and that the unit is still in working condition. If all the tests succeed the user's v-Keys will be revoked and the user can leave the site.
 
 - *Buzz* will set off the buzzer if it is available on the unit. This can be used if a user is unsure if the device is connected or working correctly.
 - *Configure* will open the unit configuration screen
@@ -187,13 +187,13 @@ Field Requirements:
 |Username                |Required                  |
 |Password                |Required                  |
 |Admin                   |Required                  |
-|Can Generate Tokens     |Required                  |
+|Can Generate v-Keys     |Required                  |
 |Cellphone               |Optional                  |
 
 
 ### 4.1.2 Edit Users <a name="4.1.2"></a>
 
-The *Edit User* screen, allows to update a user's Admin status and Token Generation ability.
+The *Edit User* screen, allows to update a user's Admin status and v-Key Generation ability.
 - *Reset Password* resets the user's password to the default password
 
 ![edituser](assets/edituser.jpg)
@@ -208,7 +208,7 @@ When pressing the *delete* button on the *User Admin* screen, will create a popu
 
 The *Site Admin* screen will show all available sites to the user. From here a user can *Commission* a new site, *Update* an existing site's users and *Delete* sites. 
 
-> Please be aware that *Deleting* sites have consequences as once a site has been commissioned, all tokens and users that were enrolled for that site are decommissioned and invalid.
+> Please be aware that *Deleting* sites have consequences as once a site has been commissioned, all v-Keys and users that were enrolled for that site are decommissioned and invalid.
 
 ![siteadmin](assets/siteadmin.jpg)
 
