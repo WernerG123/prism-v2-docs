@@ -57,7 +57,7 @@
 
 # 1. Getting Started <a name="gettingStarted"></a>
 
-Using and Android mobile device, open Chrome browser and navigate to the Prism URL [here](https://app.myprism.co.za)
+Using and Android mobile device, open Chrome browser and navigate to the Prism URL [here](https://prism-v2-df011.web.app)
 
 > **Tip** Install the site to *Home Screen* to use Prism as a *Native App*
 
